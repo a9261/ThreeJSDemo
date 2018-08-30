@@ -118,7 +118,8 @@ config.plugins = [
         // chunkFilename: "[id].css"
     }),
     new CopyWebpackPlugin([
-        { from: 'src/static' }
+        'src/static',
+        'src/static/images'
     ])
 ]
 config.devServer = {

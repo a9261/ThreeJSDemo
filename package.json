@@ -37,6 +37,7 @@
     "schema-utils": "^0.4.5",
     "source-map-loader": "^0.2.3",
     "style-loader": "^0.21.0",
+    "three-onevent": "^1.1.2",
     "typescript": "^2.9.2",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8",
